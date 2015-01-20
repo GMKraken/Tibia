@@ -4,7 +4,7 @@ OpenTibia Server for Tibia 7.72
 This OTServer is based on OTServ Trunk SVN work (latest stable trunk rev).
 The change log can be found to the bottom.
 
-Compatible AAA Znote for OTHire [HERE](https://github.com/peonso/ZnoteOTHire).
+Compatible AAA Znote [HERE](https://github.com/peonso/ZnoteOTHire).
 
 Version Changes
 ======
